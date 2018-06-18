@@ -1,0 +1,90 @@
+[
+ {
+   "FIELD1": "Time",
+   "FIELD2": "Monday",
+   "FIELD3": "Tuesday",
+   "FIELD4": "Wednesday",
+   "FIELD5": "Thursday",
+   "FIELD6": "Friday"
+ },
+ {
+   "FIELD1": "8:00",
+   "FIELD2": "Homeroom",
+   "FIELD3": "Homeroom",
+   "FIELD4": "Homeroom",
+   "FIELD5": "Homeroom",
+   "FIELD6": "Homeroom"
+ },
+ {
+   "FIELD1": "8:30",
+   "FIELD2": "History",
+   "FIELD3": "French",
+   "FIELD4": "Learning Support ",
+   "FIELD5": "Art",
+   "FIELD6": "English"
+ },
+ {
+   "FIELD1": "10:00",
+   "FIELD2": "Break",
+   "FIELD3": "Break",
+   "FIELD4": "Break",
+   "FIELD5": "Break",
+   "FIELD6": "Break"
+ },
+ {
+   "FIELD1": "10:20",
+   "FIELD2": "English",
+   "FIELD3": "Physical Education",
+   "FIELD4": "Integrated Science ",
+   "FIELD5": "Algebra",
+   "FIELD6": "History"
+ },
+ {
+   "FIELD1": "11:50",
+   "FIELD2": "Lunch",
+   "FIELD3": "Lunch",
+   "FIELD4": "Lunch",
+   "FIELD5": "Lunch",
+   "FIELD6": "Lunch"
+ },
+ {
+   "FIELD1": "12:30",
+   "FIELD2": "Learning Support ",
+   "FIELD3": "Algebra",
+   "FIELD4": "History ",
+   "FIELD5": "Physical Education",
+   "FIELD6": "Integrated Science"
+ },
+ {
+   "FIELD1": "2:00",
+   "FIELD2": "Integrated Science ",
+   "FIELD3": "Art ",
+   "FIELD4": "English",
+   "FIELD5": "French",
+   "FIELD6": "Learning Support"
+ },
+ {
+   "FIELD1": "3:30",
+   "FIELD2": "Bus",
+   "FIELD3": "Bus",
+   "FIELD4": "Bus",
+   "FIELD5": "Bus",
+   "FIELD6": "Bus"
+ },
+ {
+   "FIELD1": "",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": "",
+   "FIELD5": "",
+   "FIELD6": ""
+ },
+ {
+   "FIELD1": "",
+   "FIELD2": "",
+   "FIELD3": "",
+   "FIELD4": "",
+   "FIELD5": "",
+   "FIELD6": ""
+ }
+]
